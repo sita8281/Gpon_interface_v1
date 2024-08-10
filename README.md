@@ -36,8 +36,11 @@ source venv\bin\activate
 ```
 pip install -r requirements.txt
 ```
-
 Запуск
 ```
 python main.py
 ```
+## Demo 
+![demo](demo/demo1.png)
+
+
